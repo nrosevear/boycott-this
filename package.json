@@ -1,7 +1,7 @@
 {
   "name": "boycott-this",
   "version": "1.0.0",
-  "description": "Service for tracking participation in and impact of boycott",
+  "description": "Service for tracking participation in and impact of boycotts",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",

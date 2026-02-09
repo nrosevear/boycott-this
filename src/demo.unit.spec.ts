@@ -1,7 +1,7 @@
-import { describe, it, expect } from "@jest/globals";
+import { describe, it, expect } from '@jest/globals';
 
-describe("demo unit test", () => {
-  it("is always true", () => {
+describe('demo unit test', () => {
+  it('is always true', () => {
     expect(true).toBeTruthy();
   });
 });

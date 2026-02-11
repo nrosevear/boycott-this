@@ -1,7 +1,7 @@
 /**
  * Jest configuration for unit tests matching *.unit.spec.ts
  */
-module.exports = {
+export default {
   displayName: 'unit',
   preset: 'ts-jest',
   testEnvironment: 'node',
